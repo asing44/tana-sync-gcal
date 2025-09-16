@@ -1,6 +1,6 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "tana-sync-gcal",
+	"name": "tana-calendar-sync",
 	"compatibility_date": "2025-04-01",
 	"compatibility_flags": ["nodejs_compat"],
 	"observability": {
